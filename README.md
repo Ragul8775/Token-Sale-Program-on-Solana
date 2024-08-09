@@ -29,7 +29,7 @@ To get started with this project, clone the repository and install the necessary
 
 ```bash
 git clone https://github.com/Ragul8775/Token-Sale-Program-on-Solana.git
-cd tokensale
+cd Token-Sale-Program-on-Solana
 ```
 
 Ensure you have Rust, Anchor, and Solana CLI installed.
