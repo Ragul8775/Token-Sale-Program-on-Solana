@@ -28,7 +28,7 @@ This repository contains a Solana token sale program built using the Anchor fram
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/tokensale.git
+git clone https://github.com/Ragul8775/Token-Sale-Program-on-Solana.git
 cd tokensale
 ```
 
